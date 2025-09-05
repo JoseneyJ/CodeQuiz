@@ -29,7 +29,7 @@ WHEN the game is over
 THEN I can retry again or go to home page
 ```
 
-**Updated version & Link**:
+**Updated version & Link**:https://joseneyj.github.io/CodeQuiz/
 <img width="1345" height="732" alt="portfolio-4" src="https://github.com/user-attachments/assets/d93c6b23-0c42-4c43-bd42-af240f819f57" />
 
 
