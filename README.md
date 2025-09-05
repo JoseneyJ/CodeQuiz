@@ -32,6 +32,10 @@ THEN I can retry again or go to home page
 **Updated version & Link**:https://joseneyj.github.io/CodeQuiz/
 <img width="1345" height="732" alt="portfolio-4" src="https://github.com/user-attachments/assets/d93c6b23-0c42-4c43-bd42-af240f819f57" />
 
+* Improvements to HTML,CSS & Javascript - More modern and interactive user face
+* Removal of timer and implementing the green box if the answer is correct and red box if the answer is incorrect.
+* Removal of "View Highscores" and creation of the percantage circle at the end of game. 
 
-**Previous version & Link**:
+
+**Previous version & Link**: https://joseneyj.github.io/Quiz4Challenge/
 <img width="1440" alt="Screenshot 2023-05-13 at 9 27 01 PM" src="https://github.com/JoseneyJ/Quiz4Challenge/assets/119374215/a57f5064-d4b6-4fc4-8651-e9154fc65f34">
